@@ -1,10 +1,10 @@
 # Experimental Design
 
-## TNC Basin Lab Day
+## TNC Basin Lab Day (22nd June 2021)
 
 For both Asco and Fucus, we had 5 samples, each with varying biomass. Each sample was measured three times over the day, so we could investigate the variability desiccation (i.e. drying) has on the reflectance spectra.
 
-## Pemaquid Lab Day
+## Pemaquid Lab Day (22nd July 2021)
 
 We had three different sets of experiments:
 
