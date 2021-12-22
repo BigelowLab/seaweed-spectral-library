@@ -12,6 +12,13 @@ We had three different sets of experiments:
 2. Desiccation - for both Asco and Fucus, we had 1 sample which we measured over the course of the day.
 3. Salad toss - for both Asco and Fucus, we had 1 sample which we mixed by hand between each scan.
 
+## Bigelow Lab Day (9th December 2021)
+
+We had two different sets of experiments:
+
+1. Varying biomass - for both Asco and Fucus, we had 8 samples, each with different biomasses. 
+2. Salad toss - for both Asco and Fucus, we had 1 sample which we mixed by hand between each scan.
+
 **See the `sample_list.csv` file which contains all the sample information for all of the above experiments.**
 
 # Measurement approach for (almost) all samples
@@ -19,7 +26,7 @@ We had three different sets of experiments:
 For each sample, the following approach was taken:
 
 1. The sample was placed on an adjustable table, on a piece of blackout card, under the PSR fibre optic
-2. The height of the table was changed so the distance between the top of the seaweed sample and the fibre optic was 17cm
+2. The height of the table was changed so the distance between the top of the seaweed sample and the fibre optic was kept constant
 3. The sample reflectance was measured 10 times (repeated measurements at a 5 second interval)
 4. The blackout card + sample were rotated by 90 degrees
 5. Steps 3 & 4 were repeated until there were a total of 40 scans (i.e. the sample had been measured from 4 viewing directions/orientations)
@@ -37,3 +44,4 @@ where `filestem` is a unique identifying descriptor, and `xxxx` is the scan numb
 ## Exceptions to the above measurement approach
 
 1. `Asco9` and `Fucus9` from the Pemaquid lab day have only 8 scans. These samples were given the 'salad toss' treatment. This was to replicate the different arrangements of seaweed over different tidal cycles.
+2. `asco_salad` and `fucus_salad` from the Bigelow lab day have only 12 scans. These were givent the 'salad toss' treatment, where the sample was mixed, scaned once from each direction (i.e. 4 scans total), then this was repeated 2 more times (i.e. a total of 3 mixes, with 4 scans each = 12 total scans)
